@@ -7,6 +7,7 @@ Voice Command Integration – Uses speech recognition for hands-free navigation.
 Adaptive Interface – Ensures usability for different users.
 Cost-Effective & Scalable – Requires only a webcam and microphone.
 Deep Learning-Based Approach – Ensures accuracy and reliability.
+
 Technologies Used:
 Python, OpenCV, Dlib for image processing and face tracking.
 PyAutoGUI for simulating mouse actions.
